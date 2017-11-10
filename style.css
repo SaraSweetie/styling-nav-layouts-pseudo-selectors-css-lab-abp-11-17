@@ -69,6 +69,10 @@ nav a:hover{
   color: #0056b3;
 }
 
+#logo a:hover{
+  text-decoration: underline;
+}
+
 .questions{
   padding 0 20px;
 }
