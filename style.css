@@ -73,7 +73,7 @@ nav a:hover{
   text-decoration: underline;
 }
 
-div.questions {
+div.questions a {
   padding: 0 20px;
 }
 
